@@ -1,0 +1,120 @@
+
+body{
+	background-color:#7C83FD;
+}
+#Brand{
+	
+	padding-left:30px;
+	float: left;
+}
+#nav-Content{
+	float: right;
+	
+}
+#navPad{
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+}
+#navSpace{
+	margin-right: 10em;
+	font-family: Arbutus,20px;
+}
+.active{
+	color: rgba(0, 0, 0, 1.0);
+}
+
+
+.active1{
+	color: rgba(255, 15, 0, 1.0);
+	text-decoration: underline;
+	text-decoration-color: rgba(255, 255, 255, 5.0);
+	text-decoration-style: solid;
+	text-decoration-thickness: 5px;
+}
+.active:hover{
+	border: all
+}
+.icon{
+  background-color: #7DEDFF;
+  border-radius: 80%;
+  border: 1px solid grey;
+  padding: 10px;
+size: 10px;
+} 
+
+
+.header:hover {
+    
+ 
+}
+
+
+.header{
+	margin-top: 25px;
+	font font-family: Righteous;
+	color: rgba(255, 255, 255, 1.0);
+	text-align: center;
+	font-size: 100px;
+}
+
+
+
+.header:hover{
+
+}
+.coroitem{
+text-align: center;
+	margin-top:5% ;
+	position: relative;
+	font-family: sans-serif;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+	color: rgba(255, 255, 255, 1.0);
+	
+}
+#carouse-pos{
+text-decoration: none;
+}
+.carousel-control-prev-icon{
+	color: rgba(255, 255, 0, 1.0);
+}
+.coreitpos{
+	text-align: center;
+	text-decoration: none;
+	color: rgba(255, 255, 255, 1.0);
+}
+
+.cutter{
+
+	padding-top: 0.5%;
+	color: white;
+	size: 2px;
+
+}
+
+.core{
+	color: white;
+	text-align: justify;
+}
+h2{
+	font-size: 50px;
+	text-align: center;
+}
+.course-item1{
+	padding-top: -10px;
+}
+tr{
+	padding-left: 20px;
+
+}
+.corital{
+	text-align: justify;
+list-style-type: circle;
+	margin-left: 45%;
+}
+.skill{
+	margin-left: 30%;
+	border: double;
+border-color:white ;
+}

@@ -1,0 +1,70 @@
+body{
+	background-color: #E93B81;
+}
+
+
+}
+#Brand{
+	
+	padding-left:30px;
+	float: left;
+}
+#nav-Content{
+	float: right;
+	
+}
+#navPad{
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+}
+#navSpace{
+	margin-right: 10em;
+	font-family: Arbutus,20px;
+}
+.active{
+	color: rgba(255, 15, 0, 1.0);
+	text-decoration: underline;
+	text-decoration-color: rgba(255, 255, 255, 1.0);
+	text-decoration-style: solid;
+	text-decoration-thickness: 5px;
+}
+
+.icon{
+  background-color: #7DEDFF;
+  border-radius: 80%;
+  border: 1px solid grey;
+  padding: 10px;
+size: 10px;
+}   
+.matter{
+	color:rgba(255, 0, 0, 1.0) ;
+}
+.top-header{
+	.header
+	font font-family: Righteous;
+	color: rgba(255, 255, 255, 1.0);
+	text-align: center;
+	font-size: 100px;
+	margin-top: 200px;
+}
+.contact{
+	margin-left: 44%;
+}
+.cont{
+	margin-right: 20px;
+	text-align: center;
+text-decoration: none;
+border-radius: 25%;
+padding-top: 20px;
+color: white;
+}
+.creator{
+	float: right;
+	margin-top: 8.1%;
+	color: #E8F6EF;
+	margin-right: 5px;
+}
+.subhead{
+	text-align: center;
+	color: rgba(255, 255, 255, 1.0);
+}
